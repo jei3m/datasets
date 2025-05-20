@@ -1,72 +1,41 @@
-# FreeCodeCamp Learning Repository
+# AI Coder
 
-Welcome to my **FreeCodeCamp Learning** repository! This repository serves as a personal tracker for my progress through FreeCodeCamp's curriculum and a space for all the projects I completed along the way. My ultimate goal is to earn **7 certifications** offered by FreeCodeCamp, and I'm documenting my journey here to stay organized, and motivated.
+![aicoder](https://github.com/user-attachments/assets/bcf2a199-b0bb-4bcb-8d81-64f33f9a16fb)
 
----
+**AI Coder** is a simple website created using Next.js, integrated with Llama 405B for React.js code generation. This project was developed as an experiment to explore the capabilities of Llama 405B. This is heavily inspired by [LlamaCoder](https://github.com/llama-coder).
 
-## 🎯 Goals
+## Features
 
-### Certifications to Accomplish
-1. **Responsive Web Design Certification**  
-2. **JavaScript Algorithms and Data Structures Certification**  
-3. **Front End Development Libraries Certification**  
-4. **Data Visualization Certification**  
-5. **Relational Database Certification**  
-6. **Back End Development and APIs Certification**  
-7. **Quality Assurance Certification**
+- **Next JS**: Utilizes a front-end library Next JS for building user interfaces.
+- **Llama AI Integration**: Generates code in React JS with the use prompts.
+- **OpenAI Compatible**: Can be used with OpenAI compatible API inferences.
 
----
+## Purpose
 
-## 📊 Progress Overview
+The main purpose of AI-Coder is to explore and understand how Meta's Llama 405B can be integrated into web applications for coding tasks. Built with Next.js, this project aims to study the practical applications and limitations of AI-driven code generation, focusing on creating React.js components from prompts.
 
-### Certifications
-- 🟢 **Responsive Web Design Certification** (Done)  
-- 🟢 **JavaScript Algorithms and Data Structures Certification** (In Progress)  
-- 🔴 **Front End Development Libraries Certification** (Not Started)  
-- 🔴 **Data Visualization Certification** (Not Started)  
-- 🔴 **Relational Database Certification** (Not Started)  
-- 🔴 **Back End Development and APIs Certification** (Not Started)  
-- 🔴 **Quality Assurance Certification** (Not Started)  
+## Installation
 
----
+To get started with the AI Coder, follow these steps:
 
-## 📅 Daily Progress Report
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/jei3m/ai-coder.git
+2. Navigate to the project directory:
+   ```bash
+   cd ai-coder
+3. Install the dependencies:
+   ```bash
+   npm install
+4. Set Up Environment Variables
+    Create a `.env` file in the root directory and add your Sambanova API credentials.
+    ```env
+    SAMBANOVA_API_KEY=your_sambanova_api_key
+    ```
 
-### March 2025
-- **March 3, 2025 (It's my Birthday! 🥳)**  
-    - Completed: Learn HTML by Building a Cat Photo App
-    - Completed: Learn Basic CSS by Building a Cafe Menu
-    - Completed: Learn CSS Colors by Building a Set of Colored Markers
-    - Completed: Learn HTML Forms by Building a Registration Form
-    - Completed: Survey Form (Certification Project)
-    - Completed: Learn the CSS Box Model by Building a Rothko Painting
-    - Completed: Learn the CSS Flexbox by Building a Photo Gallery
+5. Start the development server:
+   ```bash
+   npm run dev
 
-- **March 6, 2025**
-    - Completed: Learn Typography by Building a Nutrition Label
-    - Completed: Learn Accessibility by Building a Quiz
-    - Completed: Tribute Page (Certification Project)
-
-- **March 7, 2025**
-    - Reorganized the overall structure of the repository
-    - Seperated projects into their respective courses
-
-- **March 8, 2025**
-    - Completed: Learn Intermediate CSS by Building a Cat Painting
-    - Completed: Learn Responsive Web Design by Building a Piano
-    - Completed: Technical Documentation Page (Certification Project)
-
-- **March 10, 2025**
-    - Completed: Learn CSS Variables by Building a City Skyline
-    - Completed: Learn CSS Grid by Building a Magazine
-    - Completed: Product Landing Page (Certification Project)
-
-- **March 11, 2025**
-    - Completed: Learn CSS Animation by Building a Ferris Wheel
-    - Completed: Learn CSS Transforms by Building a Penguin
-    - Completed: Personal Portfolio Page (Certification Project)
-    - Obtained the Responsive Web Design Certificate 🏅
-
-- **April 6, 2025**
-    - Completed: Learn Introductory JavaScript by Building a Pyramid Generator
-    - Completed: Review JavaScript Fundamentals by Building a Gradebook App
+## Usage
+Once the development server is running, open your browser and navigate to http://localhost:3000. You can start typing prompts and the integrated AI will automatically create React JS components for you.
