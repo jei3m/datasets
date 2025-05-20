@@ -1,1 +1,72 @@
-%23%20AI%20Coder%0A%0A!%5Baicoder%5D(https%3A%2F%2Fgithub.com%2Fuser-attachments%2Fassets%2Fbcf2a199-b0bb-4bcb-8d81-64f33f9a16fb)%0A%0A**AI%20Coder**%20is%20a%20simple%20website%20created%20using%20Next.js%2C%20integrated%20with%20Llama%20405B%20for%20React.js%20code%20generation.%20This%20project%20was%20developed%20as%20an%20experiment%20to%20explore%20the%20capabilities%20of%20Llama%20405B.%20This%20is%20heavily%20inspired%20by%20%5BLlamaCoder%5D(https%3A%2F%2Fgithub.com%2Fllama-coder).%0A%0A%23%23%20Features%0A%0A-%20**Next%20JS**%3A%20Utilizes%20a%20front-end%20library%20Next%20JS%20for%20building%20user%20interfaces.%0A-%20**Llama%20AI%20Integration**%3A%20Generates%20code%20in%20React%20JS%20with%20the%20use%20prompts.%0A-%20**OpenAI%20Compatible**%3A%20Can%20be%20used%20with%20OpenAI%20compatible%20API%20inferences.%0A%0A%23%23%20Purpose%0A%0AThe%20main%20purpose%20of%20AI-Coder%20is%20to%20explore%20and%20understand%20how%20Meta's%20Llama%20405B%20can%20be%20integrated%20into%20web%20applications%20for%20coding%20tasks.%20Built%20with%20Next.js%2C%20this%20project%20aims%20to%20study%20the%20practical%20applications%20and%20limitations%20of%20AI-driven%20code%20generation%2C%20focusing%20on%20creating%20React.js%20components%20from%20prompts.%0A%0A%23%23%20Installation%0A%0ATo%20get%20started%20with%20the%20AI%20Coder%2C%20follow%20these%20steps%3A%0A%0A1.%20Clone%20the%20repository%3A%0A%20%20%20%60%60%60bash%0A%20%20%20git%20clone%20https%3A%2F%2Fgithub.com%2Fjei3m%2Fai-coder.git%0A2.%20Navigate%20to%20the%20project%20directory%3A%0A%20%20%20%60%60%60bash%0A%20%20%20cd%20ai-coder%0A3.%20Install%20the%20dependencies%3A%0A%20%20%20%60%60%60bash%0A%20%20%20npm%20install%0A4.%20Set%20Up%20Environment%20Variables%0A%20%20%20%20Create%20a%20%60.env%60%20file%20in%20the%20root%20directory%20and%20add%20your%20Sambanova%20API%20credentials.%0A%20%20%20%20%60%60%60env%0A%20%20%20%20SAMBANOVA_API_KEY%3Dyour_sambanova_api_key%0A%20%20%20%20%60%60%60%0A%0A5.%20Start%20the%20development%20server%3A%0A%20%20%20%60%60%60bash%0A%20%20%20npm%20run%20dev%0A%0A%23%23%20Usage%0AOnce%20the%20development%20server%20is%20running%2C%20open%20your%20browser%20and%20navigate%20to%20http%3A%2F%2Flocalhost%3A3000.%20You%20can%20start%20typing%20prompts%20and%20the%20integrated%20AI%20will%20automatically%20create%20React%20JS%20components%20for%20you.%0A
+# FreeCodeCamp Learning Repository
+
+Welcome to my **FreeCodeCamp Learning** repository! This repository serves as a personal tracker for my progress through FreeCodeCamp's curriculum and a space for all the projects I completed along the way. My ultimate goal is to earn **7 certifications** offered by FreeCodeCamp, and I'm documenting my journey here to stay organized, and motivated.
+
+---
+
+## 🎯 Goals
+
+### Certifications to Accomplish
+1. **Responsive Web Design Certification**  
+2. **JavaScript Algorithms and Data Structures Certification**  
+3. **Front End Development Libraries Certification**  
+4. **Data Visualization Certification**  
+5. **Relational Database Certification**  
+6. **Back End Development and APIs Certification**  
+7. **Quality Assurance Certification**
+
+---
+
+## 📊 Progress Overview
+
+### Certifications
+- 🟢 **Responsive Web Design Certification** (Done)  
+- 🟢 **JavaScript Algorithms and Data Structures Certification** (In Progress)  
+- 🔴 **Front End Development Libraries Certification** (Not Started)  
+- 🔴 **Data Visualization Certification** (Not Started)  
+- 🔴 **Relational Database Certification** (Not Started)  
+- 🔴 **Back End Development and APIs Certification** (Not Started)  
+- 🔴 **Quality Assurance Certification** (Not Started)  
+
+---
+
+## 📅 Daily Progress Report
+
+### March 2025
+- **March 3, 2025 (It's my Birthday! 🥳)**  
+    - Completed: Learn HTML by Building a Cat Photo App
+    - Completed: Learn Basic CSS by Building a Cafe Menu
+    - Completed: Learn CSS Colors by Building a Set of Colored Markers
+    - Completed: Learn HTML Forms by Building a Registration Form
+    - Completed: Survey Form (Certification Project)
+    - Completed: Learn the CSS Box Model by Building a Rothko Painting
+    - Completed: Learn the CSS Flexbox by Building a Photo Gallery
+
+- **March 6, 2025**
+    - Completed: Learn Typography by Building a Nutrition Label
+    - Completed: Learn Accessibility by Building a Quiz
+    - Completed: Tribute Page (Certification Project)
+
+- **March 7, 2025**
+    - Reorganized the overall structure of the repository
+    - Seperated projects into their respective courses
+
+- **March 8, 2025**
+    - Completed: Learn Intermediate CSS by Building a Cat Painting
+    - Completed: Learn Responsive Web Design by Building a Piano
+    - Completed: Technical Documentation Page (Certification Project)
+
+- **March 10, 2025**
+    - Completed: Learn CSS Variables by Building a City Skyline
+    - Completed: Learn CSS Grid by Building a Magazine
+    - Completed: Product Landing Page (Certification Project)
+
+- **March 11, 2025**
+    - Completed: Learn CSS Animation by Building a Ferris Wheel
+    - Completed: Learn CSS Transforms by Building a Penguin
+    - Completed: Personal Portfolio Page (Certification Project)
+    - Obtained the Responsive Web Design Certificate 🏅
+
+- **April 6, 2025**
+    - Completed: Learn Introductory JavaScript by Building a Pyramid Generator
+    - Completed: Review JavaScript Fundamentals by Building a Gradebook App
