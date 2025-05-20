@@ -1,4 +1,4 @@
-# Machine Learning Datasets Repository
+# Datasets Repository
 
 This repository contains datasets collected during my college studies in Machine Learning. These datasets cover various domains including environmental science, education, and demographics.
 
@@ -10,7 +10,7 @@ This repository contains datasets collected during my college studies in Machine
   - Site_Id, Unit_Id, Read_Date
   - Salinity (ppt), Dissolved Oxygen (mg/L), pH
   - Secchi Depth (m), Water Depth (m)
-  - Water Temp (°C), Air Temp (Celsius and Fahrenheit)
+  - Water Temp (Â°C), Air Temp (Celsius and Fahrenheit)
   - Time, Field_Tech, Verification info
   - Year
 - **Size**: 34 records, 17 features
