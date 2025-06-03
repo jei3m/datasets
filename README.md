@@ -57,6 +57,4 @@ These datasets can be used for:
    - Shows steady increase over time as expected
 
 ## Special Mention:
-This Commit and README is made possible by GitWrite.
-
-Check out GitWrite: https://github.com/jei3m/git-write
+This Commit and README is made possible by [GitWrite](https://github.com/jei3m/git-write).
